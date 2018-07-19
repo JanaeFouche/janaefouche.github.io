@@ -1,0 +1,25 @@
+body {
+	background:linear-gradient(to bottom, #ff00ff 0%, #00ffcc 100%);
+	text-align:center;
+}
+
+h1{
+	font-size:70px;
+	border-style:double;
+	border-width:30px;
+	border-color:aquamarine;
+}
+
+h2{
+	color:lightblue;
+	font-size:55;
+}
+
+.green{
+		color:blue;
+}
+
+img src="index.jpeg" {
+	-webkit-transform: rotateX(150deg); /* Firefox */
+	transform: rotateX(150deg);
+}
